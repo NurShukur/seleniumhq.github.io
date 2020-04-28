@@ -44,6 +44,7 @@ to measure how well an application is performing.
 There are two main sub-types for performance testing:
 
 #### Load testing
+
 Load testing is done to verify how well the 
 application works under different defined loads 
 (usually a particular number of users connected at once).
